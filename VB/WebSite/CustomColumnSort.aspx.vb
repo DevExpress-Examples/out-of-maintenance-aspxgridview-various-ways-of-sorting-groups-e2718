@@ -8,7 +8,7 @@ Imports System.Web.UI.WebControls
 
 Imports System.Collections
 
-Imports DevExpress.Web.ASPxGridView
+Imports DevExpress.Web
 Imports System.Data
 
 

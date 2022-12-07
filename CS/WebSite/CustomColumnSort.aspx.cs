@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 using System.Collections;
 
-using DevExpress.Web.ASPxGridView;
+using DevExpress.Web;
 using System.Data;
 
 

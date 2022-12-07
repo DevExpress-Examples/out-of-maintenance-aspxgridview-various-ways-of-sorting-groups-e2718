@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using DevExpress.Data;
-using DevExpress.Web.ASPxGridView;
+using DevExpress.Web;
 
 public partial class CustomSort : System.Web.UI.Page {
     protected void Page_Load(object sender, EventArgs e) {
